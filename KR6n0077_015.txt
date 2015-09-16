@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:34.000315
+#+DATE: 2015-08-30 20:57:40.582394
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_015-0551a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
-
- 《顯揚聖教論》卷第十五¶
+《顯揚聖教論》卷第十五¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-5成苦品
-:PROPERTIES:
-:head: 成苦品第五
-:END:
-¶
+成苦品第五¶
 
 如是成立無常相已。云何成立苦相。頌曰。¶
 
@@ -376,11 +371,7 @@
 應知。菩薩遍智遍滅一切自他諸苦。聲聞遍¶
 智獨滅自苦應知。¶
 
-6成空品
-:PROPERTIES:
-:head: 《顯揚聖教論》成空品第六
-:END:
-¶
+《顯揚聖教論》成空品第六¶
 
 如是已成立苦相。云何成立空相。當知空相¶
 有三種。一自相。二甚深相。三差別相。¶

@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:33.694116
+#+DATE: 2015-08-30 20:57:40.284206
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_005-0502a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《顯揚聖教論》卷第五¶
+《顯揚聖教論》卷第五¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-2攝淨義品
-:PROPERTIES:
-:head: 攝淨義品第二之一
-:END:
-¶
+攝淨義品第二之一¶
 
 如是已說。九事淨義今當說。頌曰。¶
 
@@ -94,9 +89,8 @@
 雜染離繫故。所修一切菩提分法。此十種¶
 義攝一切義應知。¶
 
-五種義者。一所遍知事。二所遍知義。三應
-<pb:KR6n0077_T_005-0502c>¶
-知遍知。四得遍知果。五受用遍知果。所遍¶
+五種義者。一所遍知事。二所遍知義。三應知
+<pb:KR6n0077_T_005-0502c>知遍知。四得遍知果。五受用遍知果。所遍¶
 知事者。謂一切所知事。若諸蘊事。若內處事。¶
 若外處事如是等。所遍知義者。謂盡一切種¶
 如所應知。若世俗諦若勝義諦。若功德若過¶

@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:33.817592
+#+DATE: 2015-08-30 20:57:40.398884
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_009-0521b> ¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《顯揚聖教論》卷第九¶
+《顯揚聖教論》卷第九¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:33.901549
+#+DATE: 2015-08-30 20:57:40.484878
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_012-0535c> 
 #+PROPERTY: JUAN 12
 ¶
-
- 《顯揚聖教論》卷第十二¶
+《顯揚聖教論》卷第十二¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -471,7 +470,7 @@
 令深邃故。¶
 
 善釋難言者。能善解釋五種難故。如前應知。¶
-善分析言者。析一一法依增一道理乃至十¶
+善分析言者。析一一法衣增一道理乃至十¶
 種。或復過此善分別故。如依一法建立。二種¶
 三種四念住等。乃至廣說。¶
 

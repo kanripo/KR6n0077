@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:34.165473
+#+DATE: 2015-08-30 20:57:40.737225
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_020-0578b> ¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《顯揚聖教論》卷第二十¶
+《顯揚聖教論》卷第二十¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -414,8 +413,7 @@
 #+END_VERSE
 」¶
 
-論曰。諸佛世尊唯依攝事顯了諸法。是名素¶
-怛纜藏。問何等名攝事。答謂四事九事二十¶
+論曰。諸佛世尊唯依攝事顯了諸法。是名素怛纜藏。問何等名攝事。答謂四事九事二十¶
 九事何等四事。謂聞事歸趣事學事菩提事。¶
 九種事者。一假立有情事。二彼所受用事。三¶
 彼受生事。四彼生已住事。五彼染污清淨¶

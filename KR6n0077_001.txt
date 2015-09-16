@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:33.564125
+#+DATE: 2015-08-30 20:57:40.171823
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_001-0480b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1602[cf.No.1603]¶
-
- 《顯揚聖教論》卷第一¶
+No. 1602 [cf. No. 1603]¶
+《顯揚聖教論》卷第一第一¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-1攝事品
-:PROPERTIES:
-:head: 攝事品第一
-:END:
-¶
+攝事品第一¶
 
 #+BEGIN_VERSE
 「　善逝善說妙三身
@@ -528,7 +523,7 @@ No.1602[cf.No.1603]¶
 中三劫起。所謂飢饉疫病刀兵。二十中劫世¶
 間正壞。二十中劫壞已而住。二十中劫世間¶
 正成。二十中劫成已而住。如是合有八十中¶
-劫。名為大劫。譬如天雨𤁷猶車軸。無有間¶
+劫。名為大劫。譬如天雨[泳-永+適]猶車軸。無有間¶
 斷從空而注。如是東方無邊世界無有間斷。¶
 或成或壞。或有正壞或壞已住。或有正成或¶
 成已住。如是乃至十方世界如是已說。界雜¶
