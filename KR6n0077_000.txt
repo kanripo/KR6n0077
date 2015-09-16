@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 顯揚聖教論
+#+DATE: 2015-08-30 20:57:34.531860
+#+PROPERTY: JUAN 0
