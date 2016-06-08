@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:33.564125
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:42
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1602
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0077_T_000-0480b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0077_T_001-0480b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1602[cf.No.1603]¶
-
- 《顯揚聖教論》卷第一¶
+No. 1602 [cf. No. 1603]¶
+《顯揚聖教論》卷第一＋（此論一部總二十卷乃是瑜伽師地論之樞要也）夾註【三】【宮】第一＋（此論一部總二十卷乃是瑜伽師地論之樞要也）夾註【宋】【元】【明】【宮】第一第一¶
 ¶
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-1攝事品
-:PROPERTIES:
-:head: 攝事品第一
-:END:
-¶
+* 攝事品第一¶
 
 #+BEGIN_VERSE
 「　善逝善說妙三身
@@ -45,18 +40,18 @@ No.1602[cf.No.1603]¶
 　一切界雜染
 　諦依止覺分¶
 　補特伽羅果
-　諸功德九事
+　諸功德九事」
 #+END_VERSE
-」¶
+¶
 
 論曰。一切者有五法總攝菩薩藏。何等為五。¶
 頌曰。¶
 
 #+BEGIN_VERSE
 「　心心所有色
-　不相應無為
+　不相應無為」
 #+END_VERSE
-」¶
+¶
 
 論曰。心者謂心意識差別名也。問何等為識。
 <pb:KR6n0077_T_001-0480c>¶
@@ -488,9 +483,9 @@ No.1602[cf.No.1603]¶
 
 #+BEGIN_VERSE
 「　界謂欲色等
-　及與三千界
+　及與三千界」
 #+END_VERSE
-」¶
+¶
 
 論曰。界有二種。一欲等三界。二三千世界。欲¶
 等三界者。一欲界。謂未離欲地雜眾煩惱諸¶
@@ -536,9 +531,9 @@ No.1602[cf.No.1603]¶
 
 #+BEGIN_VERSE
 「　煩惱業生性
-　雜染相應知
+　雜染相應知」
 #+END_VERSE
-」¶
+¶
 
 論曰。雜染性有三種。一煩惱雜染。二業雜染。¶
 三生雜染。煩惱雜染者。謂一切煩惱及隨煩
