@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:40.338031
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:42
 #+TITLE: 顯揚聖教論
 #+PROPERTY: CBETA_ID T31n1602
 #+PROPERTY: ID KR6n0077
